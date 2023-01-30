@@ -1,6 +1,6 @@
 const ButtonComponent = (prop) => {
     return(
-<button>{prop.buttonContent}</button>
+    <button>{prop.buttonContent}</button>
     )
 }
 
